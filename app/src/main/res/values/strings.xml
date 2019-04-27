@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="janken_text">じゃん・けん・・・</string>
+    <string name="gu">TODO</string>
+    <string name="choki">TODO</string>
+    <string name="pa">TODO</string>
+    <string name="result_label">TextView</string>
+    <string name="my_hand_image">TODO</string>
+    <string name="back_text">戻る</string>
+    <string name="com_hand_image">TODO</string>
+    <string name="result_draw">あいこです</string>
+    <string name="result_lose">あなたの負けです</string>
+    <string name="result_win">あなたの勝ちです</string>
+</resources>
